@@ -1,0 +1,21 @@
+{
+  "name": "rat",
+  "version": "1.0.0",
+  "description": "Redmine admin tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srtn/rat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srtn/rat/issues"
+  },
+  "homepage": "https://github.com/srtn/rat#readme",
+  "devDependencies": {}
+}
